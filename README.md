@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @whosubrajit
 - 👀 I’m interested in her -,-
 - 🌱 I’m currently learning Java
-- 📫 How to reach me ...
-- ⚡ Fun fact: 
+- 📫 Instagram : @subra.lmao & Facebook : @iamsubrajit
+- ⚡ Fun fact : I'm dumb.
 
 <!---
 whosubrajit/whosubrajit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
